@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\user\source\repos\spaceadventure\spaceadventure\main.cpp(229): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\spaceadventure\spaceadventure\main.cpp(230): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\spaceadventure\spaceadventure\main.cpp(235): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\spaceadventure\spaceadventure\main.cpp(236): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\spaceadventure\spaceadventure\main.cpp(255): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  SpaceAdventure.vcxproj -> C:\Users\User\source\repos\SpaceAdventure\Debug\SpaceAdventure.exe
